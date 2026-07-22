@@ -1491,6 +1491,17 @@ colorScheme: ColorScheme.fromSeed(seedColor: Colors.teal),
 
 **โจทย์ D (ยาก):** สร้าง Tab ใหม่ "Todo List" ที่มี TextField รับชื่องาน, ปุ่ม Add, รายการ Todo ที่กดติ๊กถูก/ลบได้ และแสดงจำนวนงานที่เหลือ
 
+<br>
+
+> **🎯 โจทย์ฝึกทำ — ขยาย App ด้วยตนเอง เลือกทำโจทย์ A กับ C :**
+
+**บันทึกรูปผลการทดลอง**
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/5fc7294e-64ee-4f96-9d42-a7dd6b19b7be" />
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/b1e19144-d0ca-4c18-9eb4-b1a0224dbbe4" />
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/36af8d1e-c3e8-4969-8c2e-bed9dd467f18" />
+
 ---
 
 
